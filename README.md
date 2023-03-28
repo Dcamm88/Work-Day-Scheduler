@@ -8,4 +8,7 @@ Adding the current date was done through js with a for loop and if else statemen
 
 Each hour has an input box for typing your task if any with also a functioning save button that will save each task using local storage in js.
 
-image.png
+
+![Alt text](img/day-planner.jpeg)
+
+git status
